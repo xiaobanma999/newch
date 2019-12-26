@@ -1,0 +1,34 @@
+*{margin: 0;padding: 0;box-sizing: border-box;font-family: 思源黑体;outline:none;}
+.banner{width:100%;}
+ 
+.h-h{text-align: center;margin: 100px auto;}
+.h-h span:nth-child(1){font-size: 26px;color: aqua;}
+.h-h span:nth-child(2){font-size: 30px;}
+.m-pp{width: 100%;background-color: aqua;display: flex;text-align: center;margin:0 auto ;justify-content:center;padding: 60px 0;}
+.m-pp div{background-color: #fff;padding-bottom: 30px;}
+.m-pp div:nth-child(1){margin-right: 20px;}
+.m-pp div:nth-child(2){margin-left: 20px;}
+.m-pp div p{margin: 24px 0;}
+.m-pp a{text-decoration: none;color: #fff;padding:5px 15px;background-color: #0aa1ed;}
+.mm-pp{width: 80%;text-align: center;margin: 0 auto;display: flex;justify-content: space-between;}
+.mm-pp>div>div{display: flex;width: 520px;height: 520px;flex-wrap: wrap;justify-content: space-between;margin-right:10px}
+.mm-pp>div>div>div{width: 250px;height: 250px;background-color: #eee;}
+.mm-pp>div>div>img{width: 250px;height: 250px;display: block;}
+.mm-pp>div>div>div p:nth-child(1){font-size: 22px;font-weight:bold;margin-top: 46px;margin-bottom: 20px;}
+.mm-pp>div>div>div p:nth-child(2){font-size: 18px;color:#666;margin-bottom: 68px;}
+.mm-pp>div>div>div>a{border:1px solid #0aa1ed; font-size: 16px;margin-bottom: 54px;text-decoration: none;padding: 10px 40px;color: black;}
+.bot-p{width: 100%;height:400px;display: flex;margin: 0 auto;justify-content: space-between;}
+.bot-p>div:nth-child(1){width:30% ;height :100%;}
+.bot-p>div:nth-child(2){width:40% ;height :100%;}
+.bot-p>div:nth-child(3){width:30% ;height :100%;}
+.bot-p div img{width: 100%;height:100%;}
+.bot-p>div{position:relative; }
+.bot-p>div>div{position:absolute;bottom:20px;color:#fff;}
+.bot-p>div>div p:nth-child(1){font-size:20px;padding-bottom: 10px;}
+
+
+.bot-p>div>div p:nth-child(2){foont-size:12px;}
+.bot-p-m{margin-left:20px; }
+.bot-p-r{margin-left: 120px;}
+.a-bottom{text-align: center;margin: 50px auto 100px;}
+.a-bottom a{ color: #000;text-decoration: none;font-size:16px;padding: 5px 30px; border:1px solid #0aa1ed;}

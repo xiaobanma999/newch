@@ -1,0 +1,33 @@
+*{margin: 0;padding: 0;box-sizing: border-box;font-family: 思源黑体;}
+.banner{width:100%;}
+.title{margin: 96px auto 100px;text-align: center;position: relative;}
+.title>p{color: #0aa1ed;font-size: 36px;margin-bottom: 3px;}
+.bianjiao div:nth-child(1){
+width:300px;height: 40px;border: 1px solid #666;
+margin: 0 auto;
+}
+.bianjiao div:nth-child(2){
+width:400px;height: 14px;border: 1px solid #fff;
+margin: 0 auto;position: absolute;top: 64px;left: 400px;background: #fff;
+}
+.bianjiao div:nth-child(3){width:273px;height: 46px;border: 1px solid #fff;margin: 0 auto;position: absolute;top: 49px;left: 501px;background: #fff;}
+.bianjiao p{position: absolute;top: 57px;left: 544px;font-size: 20px;}
+.zt{width:900px;margin: 0 auto;display: flex;flex-wrap: wrap;justify-content: space-between;}
+.zt-l{width: 68%;height: 68%;padding:0 20px 20px 0;}
+.zt-l img{width: 100%;display: block;}
+.zt-r{width: 32%;height:68%;text-align: center;}
+.zt-r div{border: 1px solid #666;}
+.zt p{margin-bottom: 6px;}
+.zt-r div:nth-child(1){margin-bottom: 22px;}
+.zt-r img{width:100%;}
+.zt-b{width: 100%;height: 32%;display: flex;justify-content: space-between;text-align: center;padding-bottom:15px; }
+.zt-b div {width: 32%;border: 1px solid #666;}
+.zt-b div img{width: 100%;}
+.title-{font-size:20px;}
+.price{font-size:15px;color:#f00;}
+.city{color:#666;font-size:12px;}
+.more{
+margin: 50px auto 0;text-align: center;
+}
+.more a{color:#fff;background: #0aa1ed;padding: 5px 15px;border-radius: 0.25rem;}
+#more-{margin-bottom:100px;}

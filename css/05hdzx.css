@@ -1,0 +1,20 @@
+*{margin: 0;padding: 0;box-sizing: border-box;font-family: 思源黑体;outline:none;}
+.banner{width:100%;}
+.HD{width: 100%;text-align: center;margin: 100px auto 0;}
+.HD p:nth-child(1){
+    font-size: 36px;
+}
+.HD p:nth-child(2){
+    font: 20px Arial;color: #666;
+}
+#ok{margin:100px auto 100px;justify-content: center;}
+/* .nj ul{margin: 0 auto !important;} */
+.breadcrumb-item+.breadcrumb-item::before{content:"|";}
+.my_bg{background: #5B838C}
+.my_marry{
+    background: #5B838C;}
+.hengxian{
+    height: 1px;
+    background-color: #fff;}
+.ml-100{
+    margin-left:50%;width:3px;background: #fff;height:100px; }

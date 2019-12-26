@@ -1,0 +1,67 @@
+*{margin: 0;padding: 0;box-sizing: border-box;font-family: 思源黑体;outline:none;}
+.banner{width:100%;}
+.gy-title{
+    text-align: center;
+    margin: 102px auto 100px;
+}
+.gy-title p:nth-child(1){
+    font: 36px 思源黑体;
+}
+.gy-title p:nth-child(2){
+    font:18px Arial;
+    color :#666;
+    margin: 5px auto 7px;
+}
+.gy-title div{width: 20px;height: 20px;border-radius: 50%;background: #0aa1ed;color:#fff;margin: 0 auto;}
+.GYWM{
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+.GYWM div{width: 20%;}
+.GYWM div:nth-child(1){margin-right: 10px;}
+.GYWM div:nth-child(2){margin-right: 10px;}
+.GYWM div:nth-child(2) img{height: 54%;}
+.GYWM div img{width: 100%;}
+.GYWM div p:nth-child(2){
+    font:26px 思源黑体;
+    margin: 24px auto 22px;
+}
+.GYWM div p:nth-child(3){
+    font:16px 思源黑体;
+    color:#666;
+}
+#bg-mp{
+    background:url("../初上项目/切图/关于我们/我们的服务/背景.png");background-size:100%;
+    width:100%;
+    height:496px;
+    display: flex;
+    justify-content: center;
+}
+.bg-white.mt-3 p:nth-child(2){
+    font:26px strong;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.bg-white.mt-3 p:nth-child(3){
+    font:18px ;
+color: #666;
+}
+.bg-white.mt-3{padding-bottom: 30px;}
+.bg-white.mt-3 a{
+    font:18px ;color: #f00;
+    border: 1px solid #f00;
+    padding: 2px 5px;
+
+}
+.lblb{background-color: #fff;padding-bottom: 70px;}
+.lblb p{font-size:36px;margin-top: 20px;}
+#ll{width: 166px;}
+#nnn{margin: 0 auto;text-align: center; margin-bottom:116px ;}
+.col-2.mt-5.pt-5 p:nth-child(1){text-align :center;font-size: 22px;}
+.col-2.mt-5.pt-5 p:nth-child(2){color: #555;}
+
+
+

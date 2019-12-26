@@ -1,0 +1,32 @@
+.top{
+    width: 100%;
+    height:80px;
+    background-color: rgb(102,102,102);
+    text-align: center;
+}
+.top img{
+    padding-left: 170px;
+    float: left;
+}
+.top ul{
+    list-style: none;
+    /* width: 880px; */
+
+}
+.top ul li{
+    float: left;
+    padding:0 6px 0;
+    height: 20px;
+    text-align: center;
+    line-height: 80px;
+}
+.top ul li a{color: #fff;text-decoration: none;}
+.top input{
+    width: 140px;
+    height: 30px;
+    margin-top: 24px;
+    border-radius:30px;
+    color:#fff;
+    background: rgb(102,102,102) ;
+    border: 1px solid #fff;
+}
